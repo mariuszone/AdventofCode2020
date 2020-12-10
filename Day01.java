@@ -8,7 +8,6 @@ import java.util.ArrayList;
 public class Main {
 
     public static void main(String[] args) throws IOException {
-	// write your code here
         BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
         ArrayList<Integer> myList = new ArrayList<Integer>();
         int x=0;
